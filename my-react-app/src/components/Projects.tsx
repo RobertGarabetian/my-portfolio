@@ -16,7 +16,7 @@ const Projects = () => {
     },
     {
       name: "Project 3",
-      description: "A brief description of Project 3",
+      description: "A brief description of Project3",
       link: "#",
     },
   ];
