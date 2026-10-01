@@ -12,12 +12,13 @@ export default function Page() {
   return (
     <main className="flex min-h-svh items-center justify-center px-6">
       <div className="w-full max-w-2xl">
-        <p className="text-left text-lg leading-relaxed text-balance text-foreground">
+        <p className="text-left text-xl leading-relaxed text-balance text-foreground">
           Hi, my name&apos;s Robert and I&apos;m a Computer Science student at
-          USC, graduating in December 2027. I love programming in Go and C++ and
-          I&apos;m passionate about systems programming. I recently worked as a
-          software engineer at Layup Parts, a composites manufacturing startup
-          serving aerospace and defense companies.
+          USC, graduating in December 2027. I love programming in Go and C++,
+          and I&apos;m drawn to problems where software meets the physical
+          world. I recently worked as a software engineer at Layup Parts, a
+          composites manufacturing startup serving aerospace and defense
+          companies.
         </p>
 
         <nav className="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-lg">
