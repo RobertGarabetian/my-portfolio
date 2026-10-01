@@ -11,8 +11,8 @@ const linkClassName =
 export default function Page() {
   return (
     <main className="flex min-h-svh items-center justify-center px-6">
-      <div className="max-w-1/2">
-        <p className="text-left text-lg leading-relaxed text-balance text-muted-foreground">
+      <div className="w-full max-w-2xl">
+        <p className="text-left text-lg leading-relaxed text-balance text-foreground">
           Hi, my name&apos;s Robert and I&apos;m a Computer Science student at
           USC, graduating in December 2027. I love programming in Go and C++ and
           I&apos;m passionate about systems programming. I recently worked as a
